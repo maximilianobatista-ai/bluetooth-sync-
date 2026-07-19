@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Sync</string>
+    <string name="app_description">Compensador de latencia Bluetooth</string>
+    <string name="accessibility_service_description">Bluetooth Sync necesita accesibilidad para mantener la captura de audio activa en segundo plano mientras usas otras apps. No recopila información personal ni lee el contenido de la pantalla.</string>
+</resources>
